@@ -3,7 +3,7 @@
 </samp>
 
 ## About me
-- 🏫 I'm currently studying
+- 🏫 I'm recently graduated in
     - Machine learning and neural computation at UCSD
   
 - 🌱 I’m currently learning
