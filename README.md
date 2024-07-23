@@ -3,7 +3,7 @@
 </samp>
 
 ## About me
-- 🏫 I'm recently graduated in
+- 🏫 I recently graduated in
     - Machine learning and neural computation at UCSD
   
 - 🌱 I’m currently learning
@@ -14,6 +14,7 @@
 - 💬 Ask me about
    - Activation functions
    - Mathmatics
+   - Data Analysis
 
 - 🤠 Fun facts
     - I enjoy cooking 🥘
