@@ -1,5 +1,5 @@
 <samp>
-  <p style="text-align:center;"><strong><h1>Hi, I'm Juan! ( ﾉ ﾟｰﾟ)ﾉ  👋</h1></strong></p>
+  <p style="text-align:center;"><strong><h1>Hi, I'm Juan!</h1></strong></p>
 </samp>
 
 ## About me
