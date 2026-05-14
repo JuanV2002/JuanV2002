@@ -3,26 +3,26 @@
 </samp>
 
 ## About me
-- 🏫 I recently graduated in
-    - Machine learning and neural computation at UCSD
+- I graduated in
+    - Machine learning and neural computation as a first gen at UCSD with a BS
   
-- 🌱 I’m currently learning
+-  I’m expanding on
    - Reinforcement learning
-   - More about Deep learning
    - Expanding on my C++
+   - Homelabs
 
-- 💬 Ask me about
-   - Activation functions
+- Ask me about
    - Mathmatics
    - Data Analysis
+   - Machine Learning
 
-- 🤠 Fun facts
-    - I enjoy cooking 🥘
+- Fun facts
+    - I enjoy cooking
     - I can speak spanish and english
+    - I am working on a homelab
 
-# 💻 Tech Stack
+# Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
@@ -32,14 +32,8 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 
 
 
 
 [![](https://visitcount.itsvg.in/api?id=JuanV2002&icon=4&color=8)](https://visitcount.itsvg.in)
-
-<!--
-**JuanV2002/JuanV2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
